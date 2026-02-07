@@ -1,137 +1,65 @@
-# Hi 👋 I'm Lakshmi Sharma
-
-🎓 Final Year B.Tech in Electronics & Communication Engineering  
-🏫 Shri Mata Vaishno Devi University, Kakryal, Katra  
-🔧 Embedded Systems | IoT | Firmware Development  
+# ⚡ Hi, I'm Lakshmi Sharma 👩‍💻
+### **Embedded Systems Engineer | IoT Enthusiast | Firmware Developer**
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
+I’m a final-year **Electronics & Communication Engineering** student at **SMVDU** with a passion for bridging the gap between hardware and software. I specialize in building low-latency firmware, real-time IoT systems, and autonomous hardware.
 
-I am a final-year ECE student with a strong interest in **Embedded Systems, IoT development, and hardware prototyping**.  
-I enjoy working with **microcontrollers, sensors, communication protocols**, and real-time systems, and I am eager to build reliable, real-world embedded solutions.
-
----
-
-## 🛠 Technical Skills
-
-### 💻 Programming Languages
-- C
-- Python
-- Java
-- SQL
-
-### 🗄 Database
-- MySQL
-
-### 🧠 Core Computer Science
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOPs)
-- Computer Networks
-- Web Development
-
-### 🌐 Frontend
-- HTML
-- CSS
-- React.js
-
-### 🔌 Embedded Systems
-- ESP32
-- ARM Cortex-M MCUs
-- Raspberry Pi
-- Hardware interfacing & peripheral configuration
-
-### 🔁 Communication Protocols
-- I²C
-- SPI
-- UART
-- CAN
-
-### 🌐 IoT & Connectivity
-- Wi-Fi
-- BLE
-- MQTT
-- REST APIs
-- Cloud Integration
-
-### ⚙ Firmware Development
-- C / C++ (Arduino, STM32)
-- MicroPython
-- FreeRTOS
-- Interrupt handling
-- Driver development
-
-### 🧪 Testing & Debugging
-- Logic Analyzer
-- JTAG
-- Oscilloscope
-- Git
-- Real-time debugging
-
-### 🧰 Tools & Platforms
-- STM32CubeMX
-- PlatformIO
-- Firebase
-- Linux
-- Basic PCB Design
+* 🔭 **Current Focus:** Advanced Driver Development & FreeRTOS.
+* 🚁 **Latest Win:** Integrated multi-sensor fusion for an AI Painting Drone at Aerora Dynamics.
+* 🧠 **Philosophy:** "If it has a datasheet, I can make it talk."
 
 ---
 
-## 💼 Experience
+## 🛠 Tech Stack
 
-### 🔹 IIT Jammu — Smart Agriculture Project  
-**Jun – Jul 2024**
+### 🔧 Hardware & Embedded
+`C` `C++` `ARM Cortex-M` `STM32` `ESP32` `Raspberry Pi` `FreeRTOS` `MicroPython`
 
-- Interfaced **5 sensors with ESP32** for real-time data acquisition  
-- Configured **Firebase** for cloud storage and data retrieval  
-- Developed a **web-based dashboard** for remote sensor visualization  
+### 📡 Protocols & Connectivity
+`UART` `I2C` `SPI` `CAN` `MQTT` `BLE` `Wi-Fi` `REST APIs`
 
-### 🔹 Aerora Dynamics Pvt. Ltd. — AI Painting Drone  
-**May – Jul 2025**
-
-- Configured multiple sensors using **STM32** for autonomous navigation  
-- Integrated:
-  - TF02-Pro LiDAR (UART)
-  - LD20 LiDAR (UART)
-  - MPU-9250 IMU (SPI)
-  - PMW3901 Optical Flow (SPI)
-  - Murata PKGS sensor (EXTI interrupts)
-- Implemented **UART, SPI, EXTI interrupts** via STM32CubeMX  
-- Simulated sensor data streams in **Proteus**  
+### 💻 Software & Tools
+`Python` `Java` `SQL` `React.js` `Linux` `Git` `STM32CubeMX` `PlatformIO` `Firebase`
 
 ---
 
-## 🚀 Projects
+## 💼 High-Impact Experience
 
-### 🚗 Color Path Following Car
-- Built an autonomous car capable of detecting and following colored paths  
-- Implemented **ML-based color classification**  
-- Linked classification output to real-time motor control logic  
-
-### 🏭 Machine Health Monitoring
-- Developed an **IoT prototype** for vibration, temperature, and current monitoring  
-- Interfaced sensors with **ESP32**  
-- Used **MQTT** for cloud communication  
-- Designed a cloud dashboard for visualization and predictive analysis  
+| Role | Project / Company | Key Contribution |
+| :--- | :--- | :--- |
+| **Firmware Intern** | **Aerora Dynamics** | Configured LiDAR (TF02-Pro/LD20) & IMU (MPU-9250) for autonomous drone navigation using STM32. |
+| **IoT Intern** | **IIT Jammu** | Built a Smart Agriculture system; synced 5+ sensors to Firebase with a live React dashboard. |
+| **Team Lead** | **Electronics Club** | Mentoring junior developers in Embedded Systems & Circuit Design. |
 
 ---
 
-## 🏆 Leadership & Activities
+## 📂 Featured Projects
 
-- 👩‍💼 **Team Leader – Embedded Systems**, Electronics Club *Tarang*  
-- 🤖 **Robotics Club Member** – competitions & robotics projects  
-- 🌟 **Top 20 Selection – INNOSPARK (SMVDU TBIC)**  
-- 🤝 **NSS Volunteer** – community service & awareness programs  
+### 🏎️ Color Path Following Car
+> An autonomous vehicle using **Machine Learning** for color classification to drive real-time motor control logic.
 
----
-
-## 📫 Connect With Me
-
-- 📧 Email: lakshmi11a35@gmail.com  
-- 💼 GitHub: https://github.com/lakshmisharma11a35  
+### 🏭 Machine Health Monitoring (IoT)
+> Predictive maintenance system using **ESP32** and **MQTT** to monitor vibration and temperature, pushing data to a cloud-based analytics dashboard.
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements & Involvement
+* 🏅 **Top 20 Finalist:** INNOSPARK (SMVDU TBIC).
+* 🤖 **Robotics Club:** Active competitor in national-level robotics events.
+* 🌿 **NSS Volunteer:** Committed to community impact and social awareness.
 
-![Lakshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshmisharma11a35&show_icons=true&theme=tokyonight)
+---
+
+## 🤝 Connect With Me
+<p align="left">
+<a href="mailto:lakshmi11a35@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/lakshmisharma11a35"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+  <i>Built with ❤️ and a lot of Datasheets.</i>
+</p>
